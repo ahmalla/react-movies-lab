@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+    margin: 0;
+}
+
+.whole {
+    background-image: url(https://www.golakehavasu.com/media/media-14208.jpg);
+    height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
